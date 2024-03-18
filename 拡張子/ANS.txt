@@ -1,0 +1,25 @@
+ーーーーー拡張子
+JPEG フルカラー（3000万色以上）の写真
+GIF　アニメーション、透過画像、256色
+PNG　新しいWEB用のフォーマっと
+
+HTML
+CSS
+
+DOCX/DOC　・・・ワープロ
+XLSX/XLS　…表計算
+PTTX/PPT　…プレゼン
+
+MP3 …音楽
+　AAC,...
+MPEG…動画
+　AVI,QucikTime（Apple形式）
+
+MIDI…ファイルフォーマット/コネクタの規格
+      DTMで使われる　シンセサイザーをつなぐ
+
+ZIP…圧縮ファイルの形式　
+　　　LHA、RAR・・・などの類似
+SWF…AdobeのFlashで使用される。動的コンテンツの作成を行える
+
+
